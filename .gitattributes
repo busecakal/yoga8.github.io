@@ -1,0 +1,56 @@
+# # Birlik ##
+
+* .cs  fark = csharp  metni
+* .cginc  metni
+* .gölgelendirici  metni
+
+* .mat  birleştirme = birlikyamlmerge  eol = lf
+* .anim  birleştirme = birlikyamlmerge  eol = lf
+* .unity  birleştirme = birlikyamlmerge  eol = lf
+* .prefab  birleştirme = birlikyamlmerge  eol = lf
+* .physicsMaterial2D  birleştirme = birlikyamlmerge  eol = lf
+* .physicMaterial  birleştirme = birlikyamlmerge  eol = lf
+* .asset  birleştirme = birlikyamlmerge  eol = lf
+* .meta  birleştirme = birlikyamlmerge  eol = lf
+* .controller  birleştirme = birlikyamlmerge  eol = lf
+
+
+# # git-lfs ##
+
+# Resim
+* .jpg  filtresi = lfs  fark = lfs  birleştirme = lfs  - metin
+* .jpeg  filtresi = lfs  fark = lfs  birleştirme = lfs  - metin
+* .png  filtresi = lfs  fark = lfs  birleştirme = lfs  - metin
+* .gif  filtresi = lfs  fark = lfs  birleştirme = lfs  - metin
+* .psd  filtresi = lfs  fark = lfs  birleştirme = lfs  - metin
+* .ai  filtresi = lfs  fark = lfs  birleştirme = lfs  - metin
+* .tif  filtresi = lfs  fark = lfs  birleştirme = lfs  - metin
+
+# Ses
+* .mp3  filtresi = lfs  fark = lfs  birleştirme = lfs  - metin
+* .wav  filtresi = lfs  fark = lfs  birleştirme = lfs  - metin
+* .ogg  filtresi = lfs  fark = lfs  birleştirme = lfs  - metin
+
+#Video _
+* .mp4  filtresi = lfs  fark = lfs  birleştirme = lfs  - metin
+* .mov  filtresi = lfs  fark = lfs  birleştirme = lfs  - metin
+
+# 3B Nesne
+* .FBX  filtresi = lfs  fark = lfs  birleştirme = lfs  - metin
+* .fbx  filtresi = lfs  fark = lfs  birleştirme = lfs  - metin
+* .blend  filtresi = lfs  fark = lfs  birleştirme = lfs  - metin
+* .obj  filtresi = lfs  fark = lfs  birleştirme = lfs  - metin
+
+# VESAİRE
+* .a  filtre = lfs  fark = lfs  birleştirme = lfs  - metin
+* .exr  filtresi = lfs  fark = lfs  birleştirme = lfs  - metin
+* .tga  filtresi = lfs  fark = lfs  birleştirme = lfs  - metin
+* .pdf  filtresi = lfs  fark = lfs  birleştirme = lfs  - metin
+* .zip  filtresi = lfs  diff = lfs  birleştirme = lfs  - metin
+* .dll  filtresi = lfs  diff = lfs  birleştirme = lfs  - metin
+* .unitypackage  filtresi = lfs  fark = lfs  birleştirme = lfs  - metin
+* .aif  filtresi = lfs  fark = lfs  birleştirme = lfs  - metin
+* .ttf  filtresi = lfs  fark = lfs  birleştirme = lfs  - metin
+* .rns  filtresi = lfs  fark = lfs  birleştirme = lfs  - metin
+* .neden  filtresi = lfs  fark = lfs  birleştirme = lfs  - metin
+* .lxo  filtresi = lfs  fark = lfs  birleştirme = lfs  - metin
